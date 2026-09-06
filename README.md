@@ -31,7 +31,7 @@ cd weather-pulse
 python -m http.server 8080
 ```
 
-Open your browser at `http://localhost:8080`.
+Open your browser at: https://weather-pulse-79ug4sj7j-weathe-pulse.vercel.app/
 
 ## 🛠️ Built With
 
