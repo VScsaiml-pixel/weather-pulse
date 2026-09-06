@@ -2,7 +2,8 @@
 
 > **Weather Pulse** is a sleek, real-time weather dashboard built with a liquid-glassmorphism UI, interactive SVG wave charts, 24-hour horizontal hourly forecasts, multi-source METAR & Open-Meteo API synchronization, global city search, severe alert banners, and smooth scrollbar-free touch controls.
 
-![Weather Pulse Preview](./assets/storm-background.jpg)
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/4c66afb7-4042-476f-94d9-e1ff4da8982d" />
+
 
 ## ✨ Key Features
 
